@@ -10,9 +10,6 @@ Anything!  While there may be certain themes we try to explore throughout the ye
 #### So, who writes the articles?
 Anyone! It doesn't matter how old you are, how long you've been involved in JB, who you know, or what CISV experiences you've had.  All that's necessary is a good idea and a passion to share it!
 
-#### How do I write one?
-[Start here](/write-an-article)
-
 # Forty Readme:
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
