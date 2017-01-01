@@ -5,6 +5,7 @@ author: Daniel Krajnak
 description: A new IJB Thinks
 image: assets/images/mountain.jpg
 language: English
+reading-time: 4 minutes
 category: From the Editor
 ---
 
@@ -30,3 +31,5 @@ No, seriously why is JB Thinks a blog now?  And why does it look so amazing, I m
 * The impact and reach of IJB Thinks could be measured more easily, and therefore the blog can adapt to engage a broader audience. 
 
 Will it be like this forever?  Well, maybe, maybe not.  Like I said, JBers like to snowboard.
+
+##### image credit: http://scoutmob.com/p/Ice-Mountains-Archival-Print

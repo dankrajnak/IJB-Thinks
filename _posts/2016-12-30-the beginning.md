@@ -20,3 +20,5 @@ Anyone! It doesn't matter how old you are, how long you've been involved in JB, 
 
 
 Isn't this exciting?  Welcome to the new IJB Thinks.  Written using "Jekyll" and a theme created by HTML5 UP, made jekyll-compatible by Andrew Banchich, and modified slightly for the needs of this publication.
+
+##### image credit: http://www.curbed.com/2015/10/8/9913070/enrique-norten-centro-university-mexico-city

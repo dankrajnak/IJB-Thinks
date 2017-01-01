@@ -33,7 +33,7 @@ Want to make it *italicized*?  Write it like `*this*`.
 `> "Like this."`
 
 Our website can understand Markdown, and will format it automatically!<br> 
-*For a full list of what you can do with Markdown, check out [this page](mailto: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links).*
+*For a full list of what you can do with Markdown, check out [this page](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).*
 
 
 ### Frequently Asked Questions

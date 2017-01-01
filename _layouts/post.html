@@ -12,7 +12,6 @@
 
     {% include header.html %} 
     
-    
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -21,7 +20,7 @@
 	<div class="inner">
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		<header class="major">
-			<h1>{{ page.title }} <h4>{{page.author}} </h4></h1>
+			<h1>{{ page.title }} <h4>{{page.author}} </h4>{%if page.reading-time %}<p>Reading Time: {{page.reading-time}}</p>{%endif%}</h1>
 		</header>
 		
 		<p>{{ content }}</p>
