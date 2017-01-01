@@ -1,0 +1,16 @@
+<section id="one" class="tiles">
+	{% for category in site.categories %}
+        {% assign category_name = category | first %}
+        {% for post in site.categories[category_name] limit: 1 %}
+        <article>
+                <span class="image">
+                        <img src="{{ post.image | relative_url}}" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="{{ site.baseurl }}/categories/{{ category | first | downcase | slugify }}" class="link">{{ category_name }}</a></h3>
+                        <p></p>
+                </header>
+        </article>
+        {% endfor %}
+	{% endfor %}
+</section>

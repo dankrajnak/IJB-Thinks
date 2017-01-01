@@ -13,18 +13,16 @@
 <nav id="menu">
 	<ul class="links">
         {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
-	    	{% endif %}
+        	
+			    {% if page.layout == "home" %}
+			        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
+		    	{% endif %}
+			{% endfor %}
+			{% for page in site.pages %}
+			    {% if page.layout != "home" and page.layout != "category" and page.title != "Elements"%}
+			        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+			    {% endif %}
 		{% endfor %}
-		{% for page in site.pages %}
-		    {% if page.layout != "home" %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
+
 	</ul>
 </nav>

@@ -2,6 +2,11 @@
 <section id="contact">
 	<div class="inner">
 		<section>
+			{% if page.layout == 'post' %}
+			<h3> How did you like the article? </h3>
+			{%else%}
+			<h3> Contact Us </h3>
+			{%endif%}
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
@@ -20,29 +25,31 @@
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
 			</form>
+			<h3> Want to write your own{% if page.layout != 'post' %} article{% endif %}? </h3>
+			<ul class="actions">
+				<li><a href="/write-an-article" class="button special large">Start Here</a></li>
+			</ul>
 		</section>
 		<section class="split">
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
 					<h3>Email</h3>
-					<a href="#">{{ site.email }}</a>
+					<a href="mailto: {{site.email}}">{{ site.email }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
+					<span class="icon alt fa-facebook"></span>
+					<h3>Facebook</h3>
+					<span><a href="{{ site.facebook_url }}">{{ site.facebook_url}}</a></span>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>{{ site.street_address }}<br />
-					{{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
-					{{ site.country }}</span>
+					<span class="icon alt fa-twitter"></span>
+					<h3>Twitter</h3>
+					<span><a href="{{ site.twitter_url }}">{{ site.twitter_url}}</a></span>
 				</div>
 			</section>
 		</section>

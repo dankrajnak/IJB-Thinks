@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
-image: null
-author: null
+landing-title: 'Welcome to IJB Thinks'
+second-title: 'Want to Write an Article?'
+image: assets/images/banner.jpg
+tiles-count: 6
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+It's simpler than you think!  Click below to learn about the requirements and how to submit something you're passionate about.
