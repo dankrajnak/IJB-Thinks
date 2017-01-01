@@ -1,8 +1,21 @@
-# Forty - Jekyll Theme
+#IJB Thinks
+
+An international blog developed using Jekyll and the HTML5 Forty theme.  Slightly modified to include support for categories.
+
+In 2006, IJB Thinks was created as a space where members of the Junior Branch of CISV, an international peace-education organization, could share their feelings, experiences, and thoughts about anything they were passionate about.  Over the years, it's taken many forms, most notably as a semi-monthly magazine.  This year, for the first time, it's taken the form of a blog.  
+
+#### What are the articles going to be about?
+Anything!  While there may be certain themes we try to explore throughout the year, this will always be a space to express your thoughts about whatever you're passionate about.
+
+#### So, who writes the articles?
+Anyone! It doesn't matter how old you are, how long you've been involved in JB, who you know, or what CISV experiences you've had.  All that's necessary is a good idea and a passion to share it!
+
+#### How do I write one?
+[Start here](/write-an-article)
+
+# Forty Readme:
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
-
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
 # How to Use
 
