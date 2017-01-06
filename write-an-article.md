@@ -42,8 +42,8 @@ Our website can understand Markdown, and will format it automatically!<br>
 	<dt>Do I have to use Markdown?</dt>
 	<dd> <p>No, it's not required. If you would like, you can include your article as a word document, or simply type it in your email.  However, the formattting may need to be changed.</p></dd>
 
-	<dt>What if I want to include a table, or two collumns or something I'm not sure how to do?</dt>
-	<dd><p>We want to make sure your article looks great.  Just ask, and we will try to accomodate any special needs you may have.</p> </dd>
+	<dt>What if I want to include a table, another picture, other colors, or two collumns, or something I'm not sure how to do?</dt>
+	<dd><p>We want to make sure your article looks great and is in the perfect format.  Just ask, and we will do our best to make it happen!</p> </dd>
 
 	<dt>How long should my article be? </dt>
 	<dd> <p>However long it takes to say what you want to say.  Check out some of the articles to get a feel for how long the average one is.  Keep in mind reading time.  Every 200 words takes about a minute to read.  It's standard to try to keep reading time below 7 minutes, but if you can't find a way to shorten your article or have a lot to say, this rule can be broken!</p>

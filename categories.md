@@ -3,7 +3,7 @@ layout: categories
 title: Categories
 landing-title: 'Categories'
 second-title: null
-description: 'Find all the cateogries in the blog'
+description: The different types of things we're thinking about
 image: null
 author: null
 ---

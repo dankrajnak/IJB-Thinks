@@ -4,6 +4,8 @@
 		<section>
 			{% if page.layout == 'post' %}
 			<h3> How did you like the article? </h3>
+			{%elsif page.layout == 'categories' or  page.layout =='category'%}
+			<h3> Have an idea for a new category?</h3>
 			{%else%}
 			<h3> Contact Us </h3>
 			{%endif%}
