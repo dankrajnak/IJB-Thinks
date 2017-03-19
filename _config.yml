@@ -2,7 +2,7 @@
 title: IJB Thinks
 subtitle: JB's Idea Marketplace
 email: ijbthinks@ijb.cisv.org
-description: A blog written by JBers around the world.
+description: An online community of JBers around the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ijb-thinks.herokuapp.com" # the base hostname & protocol for your site
 author: Daniel Krajnak
