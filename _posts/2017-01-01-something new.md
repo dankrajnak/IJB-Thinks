@@ -17,7 +17,10 @@ Whatever you see as the ideal JB,  I think that what really drives us to be a pa
 
 And maybe, if we really want to share our passion for CISV with others, if we want to get others involved in JB chapters, we need to think as much about bringing them into the community as we do bringing them to the beach—introducing them to the endless ocean of possibility within JB, which the more we understand the harder we find to describe.  And maybe, after a long board meeting, a failed mini-camp, a difficult and trying year in CISV without much reward, we need to sit for a while, seaside, feel the crash and power of the waves, and try to remember the first time we considered setting sail.  
 
-This restlessness to explore is part of being human, but, as Svante Pääbo told Elizabeth Kolbert, who wrote an article about this instinct in the New Yorker, “There is… some madness there.  You know?  How many people must have sailed out and vanished on the Pacific before you found Easter Island?”  And in taking on large projects which may or may not be successful, there is a kind of madness, but there’s intrinsic value in trying, in exploring.
+This restlessness to explore is part of being human, but, as Svante Pääbo told Elizabeth Kolbert, who wrote an article about this instinct in the New Yorker, 
+> “There is… some madness there.  You know?  How many people must have sailed out and vanished on the Pacific before you found Easter Island?”  
+
+And in taking on large projects which may or may not be successful, there is a kind of madness, but there’s intrinsic value in trying, in exploring.
 
 In this way, failure in JB is important, but even more essential are ideas, beginning the voyage.  These voyages, often times from local JBers, have shaped how JB USA works today and they’re also what makes working in JB so special, that all of us can tap into this incredible organization to accomplish things we wouldn’t be able to do on our own.
 

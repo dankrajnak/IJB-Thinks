@@ -2,7 +2,7 @@
 title: IJB Thinks
 subtitle: JB's Idea Marketplace
 email: ijbthinks@ijb.cisv.org
-description: A blog written by JBers around the world.
+description: An online community of JBers around the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Daniel Krajnak
@@ -16,9 +16,10 @@ instagram_url: https://www.instagram.com/cisvofficial/
 twitter_url: https://twitter.com/ijbnews
 
 
-
 # Build settings
 include: ["_categories"]
 markdown: kramdown
+sass:
+  style: compressed
 permalink: /:year/:month/:day/:title/
 

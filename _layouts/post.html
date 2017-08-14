@@ -10,27 +10,50 @@
 
 <body>
 
-    {% include header.html %} 
-    
-<!-- Main -->
-<div id="main" class="alt">
+	{% include header.html %}
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-		<header class="major">
-			<h1>{{ page.title }} <h4>{{page.author}} </h4>{%if page.reading-time %}<p>Reading Time: {{page.reading-time}}</p>{%endif%}</h1>
-		</header>
-		
-		<p>{{ content }}</p>
+	<section id="banner" class="major page-image" style="background-image: url('{{ site.baseurl }}/{{ page.image }}')">
+		<!--
+<div class="inner">
+	<header class="major">
+		<h1>{{ page.landing-title }}</h1>
+	</header>
+	<div class="content">
+		<p style="text-transform: uppercase;">{{ site.description }}</p>
+		<ul class="actions">
+			<li><a href="/all-articles/" class="button next scrolly">View All Articles</a></li>
+		</ul>
+	</div>
+</div>
+-->
+	</section>
+
+
+	<!-- Main -->
+	<div id="main" class="alt">
+
+		<!-- One -->
+		<section id="one">
+			<div class="inner">
+				<!--				{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}-->
+				<header class="major">
+					<h1>{{ page.title }}
+						<h4>{{page.author}}</h4>
+						<p style="font-weight: bold">{{ page.date | date: "%b %-d, %Y" }}</p>
+						{%if page.reading-time %}
+						<p>Reading Time: {{page.reading-time}}</p>
+						{%endif%}
+					</h1>
+				</header>
+
+				<p>{{ content }}</p>
+
+			</div>
+		</section>
 
 	</div>
-</section>
 
-</div>
-
-    {% include footer.html %}
+	{% include footer.html %}
 
 </body>
 
