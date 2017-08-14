@@ -4,7 +4,7 @@ subtitle: JB's Idea Marketplace
 email: ijbthinks@ijb.cisv.org
 description: An online community of JBers around the world.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://ijb-thinks.herokuapp.com" # the base hostname & protocol for your site
 author: Daniel Krajnak
 
 # Homepage tiles

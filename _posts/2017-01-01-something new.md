@@ -6,7 +6,8 @@ description: why we do what we do and the role of ideas in jb
 image: assets/images/night-sky.jpg
 language: English
 reading-time: 3 minutes
-category: From the Editor
+category:
+  - From the Editor
 ---
 
 Antoine Marie Jean-Baptiste Roger, Count de Saint-Exupéry, a French writer, aviation pioneer, and generally interesting person, wrote one of my favorite quotes before his mysterious disappearance in July 1944. He wrote:

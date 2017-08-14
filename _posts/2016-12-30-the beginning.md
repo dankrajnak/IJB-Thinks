@@ -4,7 +4,9 @@ title: The Beginning
 author: Daniel Krajnak
 description: What is IJB Thinks?
 image: assets/images/campus1.jpg
-category: From the Editor
+category:
+  - From the Editor
+
 ---
 
 In 2006, IJB Thinks was created as a space where JBers from around the world could share their feelings, experiences, and thoughts about anything they were passionate about.  Over the years, it's taken many forms, most notably as a semi-monthly magazine.  This year, for the first time, it's taken the form of a blog.  
